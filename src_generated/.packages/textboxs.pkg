@@ -1,0 +1,14 @@
+[classes]
+JPHP-INF\.bootstrap
+textboxs\forms\Create
+textboxs\forms\FileEditor
+textboxs\forms\FilesManager
+textboxs\forms\Font
+textboxs\forms\Login
+textboxs\forms\Logout
+textboxs\forms\MainForm
+textboxs\forms\Register
+textboxs\forms\ReLogin
+textboxs\forms\ResetPass
+textboxs\modules\AppModule
+textboxs\modules\MainModule
